@@ -60,7 +60,7 @@ Make sure you have **Python 3.8 or above** installed.
 
 1. **Clone the repository**
 
-    git clone https://github.com/your-username/YOLOv8-Object-Detection.git  
+    git clone  [https://github.com/your-username/YOLOv8-Object-Detection.git ](https://github.com/Bandi-Bharath-Kumar/yolo_on_video.git) 
     cd YOLOv8-Object-Detection
 
 2. **Install dependencies**
